@@ -35,3 +35,26 @@ Thumbs.db
 /node_modules/
 /npm-debug.log
 composer.lock
+20250317_drupal11_local.sql.gz
+20250318_drupal_dev.sql
+
+
+# Ignore DDEV configuration
+.ddev/
+
+# Ignore vendor files (Drupal dependencies, should be installed via composer)
+vendor/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore IDE/editor configurations
+*.log
+.idea/
+.vscode/
+
+# Ignore database backups
+*.sql
+*.gz
+
