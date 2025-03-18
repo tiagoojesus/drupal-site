@@ -1,0 +1,37 @@
+# Ignore configuration files that contain sensitive data
+/web/sites/*/settings.php
+/web/sites/*/services.yml
+/web/sites/*/settings.local.php
+/web/sites/*/development.services.yml
+
+# Ignore compiled code, cache, logs, and temporary files
+/web/sites/default/files/
+/vendor/
+/web/core/
+/web/modules/contrib/
+/web/themes/contrib/
+/web/profiles/contrib/
+/web/sites/*/files/
+/web/sites/*/private/
+/web/sites/simpletest/
+/tmp/
+/logs/
+/.drush/
+/.phpunit.result.cache
+
+# Ignore DDEV-specific files
+.ddev/ 
+.ddev/*.log
+.ddev/.import-db
+.ddev/commands/
+/.ddev/nfs_mount_enabled
+.ddev/config.global.yaml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.idea/
+/.vscode/
+/node_modules/
+/npm-debug.log
+composer.lock
