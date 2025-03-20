@@ -198,7 +198,7 @@ Esta aplicação necessita de:
 
 ---
 
-## **2. Entitys - O que cada módulo precisa para funcionar**  
+## **2. Entities - O que cada módulo precisa para funcionar**  
 
 ### **Sistema de utilizadores (alunos, instrutores, administradores)**
 - **Identificação do Utilizador** (User ID)
