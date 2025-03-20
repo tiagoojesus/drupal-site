@@ -39,7 +39,7 @@ A plataforma será concebida para **alunos, instrutores e administradores**, ass
 | **Painel de controlo** | Apresenta estatísticas (testes realizados, aprovados, reprovados, dias disponíveis)
 | **Módulo de aprendizagem** | Controla as horas de estudo, os tópicos aprendidos e fornece recursos de aprendizagem
 | **Sistema de testes** | Os utilizadores fazem testes, respondem a perguntas e recebem os resultados
-| **Gerenciamento de exames** | Permite agendar, gerenciar e revisar exames
+| **Gerenciamento de exames** | Permite agendar, gerir e revisar exames
 | **Revisão/Histórico** | Exibe resultados de testes anteriores e histórico de desempenho
 | **Gestão da escola** | Mantém o controlo dos dados relacionados com a escola, como alunos, cursos e instrutores
 | **Conformidade com o RGPD** | Gere a privacidade do utilizador, o acesso aos dados e os pedidos de eliminação
