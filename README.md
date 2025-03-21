@@ -9,7 +9,7 @@ Esse projeto é uma plataforma educacional completa feita pra melhorar o aprendi
 
 ### Objetivos
 
-- Fornecer uma plataforma de aprendizagem e gestão tudo-em-um para alunos, professores e administradores.
+- Fornecer uma plataforma de aprendizagem e gestão tudo-em-um para alunos, instrutores e administradores.
 - Ajudar os alunos a acompanhar o seu progresso de aprendizagem e a melhorar através de testes interactivos e e-learning.
 - Permitir que as instituições de ensino façam uma gestão eficiente dos registos dos alunos, das contas financeiras e da calendarização.
 
