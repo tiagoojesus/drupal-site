@@ -1,0 +1,60 @@
+# Ignore configuration files that contain sensitive data
+/web/sites/*/settings.php
+/web/sites/*/services.yml
+/web/sites/*/settings.local.php
+/web/sites/*/development.services.yml
+
+# Ignore compiled code, cache, logs, and temporary files
+/web/sites/default/files/
+/vendor/
+/web/core/
+/web/modules/contrib/
+/web/themes/contrib/
+/web/profiles/contrib/
+/web/sites/*/files/
+/web/sites/*/private/
+/web/sites/simpletest/
+/tmp/
+/logs/
+/.drush/
+/.phpunit.result.cache
+
+# Ignore DDEV-specific files
+.ddev/ 
+.ddev/*.log
+.ddev/.import-db
+.ddev/commands/
+/.ddev/nfs_mount_enabled
+.ddev/config.global.yaml
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+.idea/
+/.vscode/
+/node_modules/
+/npm-debug.log
+composer.lock
+20250317_drupal11_local.sql.gz
+20250318_drupal_dev.sql
+
+
+# Ignore DDEV configuration
+.ddev/
+
+# Ignore vendor files (Drupal dependencies, should be installed via composer)
+vendor/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore IDE/editor configurations
+*.log
+.idea/
+.vscode/
+
+# Ignore database backups
+*.sql
+*.gz
+
